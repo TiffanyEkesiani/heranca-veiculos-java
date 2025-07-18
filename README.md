@@ -23,8 +23,6 @@ O veículo Toyota está ligado.
 A moto está dando grau.
 O veículo Voksvagem está ligado.
 O caminhao está bosinando.
-Feito por: Tiffany Ekesiani 🧡
 
-bash
-Copiar
-Editar
+
+Feito por: Tiffany Ekesiani 🧡
